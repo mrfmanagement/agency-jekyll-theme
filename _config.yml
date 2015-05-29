@@ -1,5 +1,5 @@
-url: http://mrfmanagement.github.io/index.html
-baseurl: mrfmanagement.github.io
+url: http://mrfmanagement.github.io
+baseurl: /homepages/
 
 # Site settings
 title: Awesome Title
